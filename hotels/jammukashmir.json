@@ -1,0 +1,22 @@
+[{
+    "name":"Holiday Inn Katra Vaishno Devi",
+    "rating":5.0,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/1d/ee/f2/hotel-exterior.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"Radisson Hotel Srinagar ",
+    "rating":4.5,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/2f/fe/32/standard-room.jpg?w=1100&h=-1&s=1"
+},{
+    "name":"Hotel Heevan Pahalgam",
+    "rating":4.5,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/a2/b4/98/hotel-heevan-pahalgam.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"The Chinar Resort & Spa, Pahalgam",
+    "rating":4.5,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/d9/d6/27/the-chinar-resort-spa.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"Pine N Peak",
+    "rating":4.5,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/d6/d0/b7/welcomhotel-by-itc-hotels.jpg?w=1200&h=-1&s=1"
+}
+]

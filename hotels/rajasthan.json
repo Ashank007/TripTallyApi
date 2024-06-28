@@ -1,0 +1,22 @@
+[{
+    "name":"Fairmont Jaipur ",
+    "rating":4.8,
+    "imgurl":"https://imgs.search.brave.com/0-gqOIrIL3iAkz4RYjYQSlWsAJBIclzfPYh_5AiSG_8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pay5p/bWdraXQubmV0LzN2/bHFzNWF4eGpmL2V4/dGVybmFsL2lrLXNl/by9odHRwczovL3d3/dy5jZm1lZGlhLnZm/bWxlb25hcmRvLmNv/bS9pbWFnZVJlcG8v/Ni8wLzk5Lzk3Ni82/Ni9hNWcwX2hvXzAw/X3BfMzAwMHgyMjUw/X08vRmFpcm1vbnQt/SmFpcHVyLUV4dGVy/aW9yLmpwZz90cj13/LTc4MCxoLTQzNyxm/by1hdXRv"
+},{
+    "name":"The Oberoi Udaivilas",
+    "rating":4.8,
+    "imgurl":"https://imgs.search.brave.com/WCQofjUVEPIQjr3PDt9TjeCMoq0fj9xB5oPdEYO3Puc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2xhc3NpY3RyYXZl/bC5jb20vQ29udGVu/dC9QaWN0dXJlcy9I/b3RlbHMvT0IvSEJV/RFJPQi9UaGUtT2Jl/cm9pLVVkYWl2aWxh/cy1jb3VydHlhcmQu/anBn"
+},{
+    "name":"Hotel Rajasthan Palace",
+    "rating":4.7,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/a9/62/d0/rajasthan-palace-hotel.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"Hotel Lakend",
+    "rating":4.5,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/28/2e/21/hotel-lakend.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"Taj Amer,Jaipur",
+    "rating":4.8,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/51/6d/8a/property-facade-exterior.jpg?w=1200&h=-1&s=1"
+}
+]

@@ -1,0 +1,21 @@
+[{
+    "name":"The Barbeque Company,Patna",
+    "rating":4.5,
+    "imgurl":"https://b.zmtcdn.com/data/pictures/8/20510928/e45a45fbaa4db04dc3002173736f6112.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+},{
+    "name":"Hotel Maurya,Patna",
+    "rating":4.5,
+    "imgurl":"https://www.maurya.com/wp-content/uploads/2018/02/spicecourt_restaurant_hotel_maurya_patna_gallery_2.jpg"
+},{
+    "name":"Hotel The Panache,Patna",
+    "rating":4.8,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/c3/44/9e/the-panache.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"Chanakya Hotel,Patna",
+    "rating":4.3,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/f6/81/51/hotel-chanakya.jpg?w=800&h=-1&s=1"
+},{
+    "name":"Cook Book Café",
+    "rating":4.6,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b7/8e/64/img-20210307-170040-largejpg.jpg?w=1200&h=-1&s=1"
+}]

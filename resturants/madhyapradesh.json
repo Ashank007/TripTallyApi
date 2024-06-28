@@ -1,0 +1,21 @@
+[{
+    "name":"The Public House",
+    "rating":4.5,
+    "imgurl":"https://imgs.search.brave.com/QE49DUfm0nz3B8gAzQqc-C6i5k6s9HW1nkGd7-L1V9A/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzYz/ZDllMjNiYTNmNjMz/NzlhOTZlYzYyNC8z/MWJkY2YzNC1mNzQw/LTQyZGYtYmZiMy1h/MjRjMjE3OGFkZjAv/cHVibGljX2hvdXNl/X2Rpbm5pZy5qcGVn"
+},{
+    "name":"Saffron Restaurant",
+    "rating":4.5,
+    "imgurl":"https://imgs.search.brave.com/97xDqEXgBTVxMucZLkIJSQv6vHoMFcINM8iHPTlVVHE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWdy/b3duLmNvbS9tZWRp/YS96b28vaW1hZ2Vz/L3NhZmZyb25fMDQ3/OTdkOTUxNmQ5ZmYy/YzhhMDJmMWM4MDAx/MWUwYzYuanBn"
+},{
+    "name":"The Waterfall Restaurant",
+    "rating":4.8,
+    "imgurl":"https://im1.dineout.co.in/images/uploads/restaurant/sharpen/2/e/d/p29410-15743151555dd62493bdda1.jpg?tr=tr:n-xlarge"
+},{
+    "name":"Kebabsville",
+    "rating":4.3,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/97/56/b9/kebabsville.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"Nafees Restaurant",
+    "rating":4.6,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/c3/7a/83/nafees-restaurant.jpg?w=1200&h=-1&s=1"
+}]

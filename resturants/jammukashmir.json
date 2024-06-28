@@ -1,0 +1,21 @@
+[{
+    "name":"Mosaic Restaurant",
+    "rating":5.0,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/31/15/5e/getlstd-property-photo.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"Khaana Khazana",
+    "rating":4.0,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/34/4b/2b/khana-khazana-jammu.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"The Grandstand",
+    "rating":4.5,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/8b/50/4d/sports-themed-ambience.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"Wazwan",
+    "rating":4.0,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/39/37/e2/this-is-for-ful-trami.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"Imperial Grill Restaurant",
+    "rating":4.0,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/18/2e/80/the-imperial-grill-restaurant.jpg?w=1200&h=-1&s=1"
+}]

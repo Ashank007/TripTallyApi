@@ -1,0 +1,21 @@
+[{
+    "name":"Radisson Blu Hotel,Indore",
+    "rating":4.5,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/8b/a0/cf/exterior.jpg?w=1100&h=-1&s=1"
+},{
+    "name":"Clarion Inn,Indore",
+    "rating":4.2,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/7d/0b/bc/exterior.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"Taj Lakefront,Bhopal",
+    "rating":4.7,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/0e/1f/ab/taj-lakefront-bhopal.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"Hotel Vijan Mahal",
+    "rating":4.5,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/7b/8c/d5/vijan-mahal-jabalpur.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"Effotel by Sayaji",
+    "rating":4.3,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/c8/09/a1/effotel-hotel.jpg?w=1200&h=-1&s=1"
+}]

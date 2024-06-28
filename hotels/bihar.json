@@ -1,0 +1,22 @@
+[{
+    "name":"Hotel Morya",
+    "rating":4.5,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/7e/01/e7/maurya-patna.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"Hotel Ginjar,Patna",
+    "rating":4.2,
+    "imgurl":"https://imgs.search.brave.com/ylVZeOE0G3j-CFSHqrINjCZt2_N262OYdx5KLDYf3kc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/Z2luZ2VyaG90ZWxz/LmNvbS9yZXNvdXJj/ZWZpbGVzL21haW5p/bWFnZXMvZ2luZ2Vy/LXBhdG5hLWhvbWUt/dG9wLmpwZz92ZXJz/aW9uPTQyMzIwMjQw/NTQ4MDM"
+},{
+    "name":"Hotel Patliputra Exotica",
+    "rating":4.7,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/93/19/5e/hotel-patliputra-exotica.jpg?w=1000&h=-1&s=1"
+},{
+    "name":"Hotel The Grand Empire",
+    "rating":4.5,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/a3/a4/cd/front-view.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"Lemon Tree Premium",
+    "rating":4.3,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/54/f5/ff/lemon-tree-premier-patna.jpg?w=1100&h=-1&s=1"
+}
+]

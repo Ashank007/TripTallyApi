@@ -1,0 +1,21 @@
+[{
+    "name":"Bazaar",
+    "rating":4.3,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/95/3a/ce/all-day-diners.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"GAD Restaurant",
+    "rating":4.7,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/a0/21/df/gad-restaurant-the-gateway.jpg?w=500&h=-1&s=1"
+},{
+    "name":"Andhra Spice Restaurant",
+    "rating":4.4,
+    "imgurl":"https://media-cdn.tripadvisor.com/media/photo-s/1d/c4/11/b0/andhra-spice-spice-it.jpg"
+},{
+    "name":"The Oriental Pavilion",
+    "rating":5,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/32/a7/d9/the-first-the-finest.jpg?w=1200&h=-1&s=1"
+},{
+    "name":"TFL",
+    "rating":4.6,
+    "imgurl":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/70/95/c4/tfl.jpg?w=1200&h=-1&s=1"
+}]
